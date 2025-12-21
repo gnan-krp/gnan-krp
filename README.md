@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm an IT Student & Aspiring AI/ML Engineer 👋
 
-<!--
-**gnan-krp/gnan-krp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year IT student at DDU Nadiad  
+🤖 Interested in Artificial Intelligence, Machine Learning & Data Science  
+📚 Actively building skills through hands-on projects and global credentials  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python (Basics to Intermediate)
+- NumPy for Numerical Computing
+- C Programming
+- Git & GitHub
+
+---
+
+## 📜 Certifications & Credentials
+- IBM AI Fundamentals (Digital Credential)
+- IBM Data Science Foundations
+- Cisco Python Essentials
+- Andrew Ng – Machine Learning (Stanford, ongoing)
+
+---
+
+## 📂 Projects
+- 🔹 **NumPy-Based Data Analysis**  
+  Numerical analysis and preprocessing using NumPy (ML foundation)
+
+- 🔹 **Python Fundamentals Repository**  
+  Core Python programs including loops, functions, arrays, and strings
+
+---
+
+## 🚀 Current Focus
+- Machine Learning Foundations
+- GitHub portfolio building
+- Problem solving with Python & C
+
+---
+
+📫 Connect with me on LinkedIn  
+🌱 Learning every day and improving step by step
