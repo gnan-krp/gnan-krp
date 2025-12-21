@@ -16,8 +16,8 @@
 
 ## 📜 Certifications & Credentials
 - IBM AI Fundamentals (Digital Credential)
-- IBM Data Science Foundations
-- Cisco Python Essentials
+- IBM Data Science Foundations (Digital Credential)
+- Cisco Python Essentials (Digital Credential)
 - Andrew Ng – Machine Learning (Stanford, ongoing)
 
 ---
