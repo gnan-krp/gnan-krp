@@ -1,42 +1,31 @@
-# Hi, I'm an IT Student & Aspiring AI/ML Engineer 👋
+# Hi, I'm Gnan Parekh 👋
 
-🎓 First-year IT student at DDU Nadiad  
-🤖 Interested in Artificial Intelligence, Machine Learning & Data Science  
-📚 Actively building skills through hands-on projects and global credentials  
+🎓 First-year IT Student at DDU Nadiad  
+🤖 Aspiring AI/ML Engineer | Passionate about Data Science & Artificial Intelligence  
+📚 Hands-on learner actively building skills through projects and global credentials  
 
 ---
 
 ## 🔧 Skills
-- Python (Basics to Intermediate)
-- NumPy for Numerical Computing
-- C Programming
-- Git & GitHub
+- **Programming Languages:** Python (Basics → Intermediate), C  
+- **Libraries/Tools:** NumPy (Numerical Computing)  
+- **Version Control:** Git & GitHub  
+- **Other Skills:** Problem Solving, Algorithm Design  
 
 ---
 
 ## 📜 Certifications & Credentials
-- IBM AI Fundamentals (Digital Credential)
-- IBM Data Science Foundations (Digital Credential)
-- Cisco Python Essentials (Digital Credential)
-- Andrew Ng – Machine Learning (Stanford, ongoing)
+- IBM AI Fundamentals (Digital Credential)  
+- IBM Data Science Foundations (Digital Credential)  
+- Cisco Python Essentials (Digital Credential)  
+- Andrew Ng – Machine Learning (Stanford, ongoing)  
 
 ---
 
 ## 📂 Projects
-- 🔹 **NumPy-Based Data Analysis**  
-  Numerical analysis and preprocessing using NumPy (ML foundation)
 
-- 🔹 **Python Fundamentals Repository**  
-  Core Python programs including loops, functions, arrays, and strings
+### 🔹 NumPy-Based Data Analysis
+- Numerical analysis and preprocessing using **NumPy**  
+- Foundation for **Machine Learning pipelines**  
+- Example workflow:
 
----
-
-## 🚀 Current Focus
-- Machine Learning Foundations
-- GitHub portfolio building
-- Problem solving with Python & C
-
----
-
-📫 Connect with me on LinkedIn  
-🌱 Learning every day and improving step by step
