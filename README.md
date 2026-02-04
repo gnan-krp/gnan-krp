@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Skills
-- **Programming Languages:** Python (Basics → Intermediate), C  
+- **Programming Languages:** Python (Basics → Intermediate), C , C++
 - **Libraries/Tools:** NumPy (Numerical Computing)  
 - **Version Control:** Git & GitHub  
 - **Other Skills:** Problem Solving, Algorithm Design  
@@ -50,7 +50,7 @@ User Ratings --> User-Item Matrix --> Collaborative Filtering --> Recommended Mo
 ## 🚀 Current Focus
 - Strengthening **Machine Learning foundations**  
 - Expanding **GitHub portfolio with practical projects**  
-- Problem-solving with **Python & C**  
+- Problem-solving with **Python, C & C++**  
 - Learning **data preprocessing, visualization, and ML algorithms**  
 
 ---
